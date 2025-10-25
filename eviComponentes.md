@@ -22,6 +22,9 @@ Además, como parte de mi proceso de aprendizaje, **decidí rehacer desde cero l
 Durante este proceso, **creé un repositorio compartido con mis compañeros**, en el cual documenté y subí los laboratorios que servían como base para estudiar y practicar. El objetivo fue ayudar a mis amigos a comprender mejor la estructura del código y la lógica de implementación. Esta experiencia fue muy valiosa porque me permitió poner en práctica mis habilidades de comunicación técnica y colaboración.
 https://github.com/LozadaInn/PokedexApp
 
+<img width="2329" height="820" alt="image" src="https://github.com/user-attachments/assets/d57bd880-ed5b-4a7b-a782-16205ac634cb" />
+
+
 ---
 
 ## Trabajo en Equipo y Metodología
